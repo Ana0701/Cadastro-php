@@ -1,0 +1,30 @@
+
+body {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .login {
+    margin: 250px;
+    border: 15px solid;
+    width: 400px;
+    color: rgb(146, 146, 124);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  a {
+    color: black;
+  }
+  .botao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(134, 93, 63);
+  }

@@ -1,0 +1,20 @@
+.centro {
+    display: flex;
+    align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10%;
+  border: 10px solid;
+
+}
+
+body{
+    background-color: aqua;
+}
+button{
+    color: rgb(0, 0, 0);
+}
+a{
+    display: flex;
+    flex-direction: column;
+}

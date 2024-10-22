@@ -1,0 +1,29 @@
+body {
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cadastro {
+  margin: 250px;
+  border: 15px solid;
+  width: 400px;
+  color: rgb(138, 138, 119);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a{
+  color: black;
+}
+.botao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(130, 104, 73);
+}
